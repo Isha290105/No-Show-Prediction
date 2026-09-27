@@ -1,0 +1,4 @@
+Policy,Avg Utilization %,Total Overcrowded Days,Overcrowded Days %,Avg Empty Slots/Day,Total Net Revenue
+No Overbooking,76.13,0,0.0,4.77,9460328.0
+Fixed Overbooking (20%),90.47,44,14.67,1.91,11045678.0
+Smart Overbooking (Model-based),92.68,71,23.67,1.46,11168903.0
